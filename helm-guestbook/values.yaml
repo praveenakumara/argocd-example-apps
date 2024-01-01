@@ -12,7 +12,7 @@ image:
 containerPort: 80
 
 service:
-  type: loadBalancer
+  type: LoadBalancer
   port: 80
 
 ingress:
